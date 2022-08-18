@@ -1,0 +1,6 @@
+spring:
+  main:
+    web-application-type: none
+
+search:
+  result-file-path: ${SEARCH_RESULT_FILE_PATH:search-results-in-github.txt}
